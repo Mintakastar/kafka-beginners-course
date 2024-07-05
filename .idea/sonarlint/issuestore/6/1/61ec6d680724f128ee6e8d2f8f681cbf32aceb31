@@ -1,0 +1,11 @@
+
+w	java:S125/"<This block of commented-out lines of code should be removed.(ãî„ãJ$4f738ea6-556b-43d4-908f-c025f3ce9511
+v
+java:S1161E":Add the "@Override" annotation above this method signature(“–ışJ$dac45743-878a-4100-86aa-215096c9995f
+š
+java:S2142O"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(”ı¾J$85dc89dc-6fc7-4497-a2cb-ed1a9a70a136
+w	java:S125]"<This block of commented-out lines of code should be removed.(¤‚ŸJ$d80713fd-46f6-40b6-8f8e-171cd26a2660
+{
+java:S6213`":Rename this variable to not match a restricted identifier.(´Å£ŸıÿÿÿÿJ$3aa0636d-a0d1-4923-89f1-bda6c7ed0593
+‚
+java:S3457a"AFormat specifiers should be used instead of string concatenation.(Ê¡ïşÿÿÿÿJ$50b875d5-09e4-4486-8086-ba4245fb361a

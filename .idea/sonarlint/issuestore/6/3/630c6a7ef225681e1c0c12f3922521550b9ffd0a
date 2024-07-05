@@ -1,0 +1,12 @@
+
+~	java:S1250"<This block of commented-out lines of code should be removed.(ãî„ã8–‡ù†…2J$ed5c79b3-c97d-4bc7-867c-bf3ab313ba44
+‚
+java:S6213H":Rename this variable to not match a restricted identifier.(´Å£Ÿıÿÿÿÿ8š‡ù†…2J$c4735829-83b0-4fbd-83b5-6e2e242a6a8c
+‰
+java:S3457I"AFormat specifiers should be used instead of string concatenation.(Ê¡ïşÿÿÿÿ8ùû†…2J$dfa3004b-6880-4246-844e-5d590f794c7d
+
+java:S1128"LRemove this unused import 'org.apache.kafka.clients.producer.KafkaProducer'.(ªŒ»8ıû†…2J$1844c781-901e-4523-a106-3c6c5f6d15ce
+•
+java:S1128"MRemove this unused import 'org.apache.kafka.clients.producer.ProducerRecord'.(ä°«¡üÿÿÿÿ8ıû†…2J$26be2fa5-474c-4c8e-8a50-e17bf2615b4f
+–
+java:S1128	"SRemove this unused import 'org.apache.kafka.common.serialization.StringSerializer'.(Ş ¾ş8ıû†…2J$acff8fe3-7126-41e7-a971-fe71cc3eff39
